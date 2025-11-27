@@ -4,18 +4,15 @@ Donald Adams' README for John Lemon's Haunted Jaunt (DIG 3480-25 Fall 0M79)
 DRIVE LINK *(COMPLETED: Major Mod Only)*:
 (ENTER LINK TO FINAL BUILD HERE)
 
-TEAM MEMBERS:
+**TEAM MEMBERS:**
 Donald Adams
 Bryan Hernandez
 
-MODIFICATIONS:
+**MODIFICATIONS:** *MAJOR* - Speed Boost + UI || *MINOR* - 
+|| *(I worked on the MAJOR MOD: Speed Boost + UI Element)*
 
-MAJOR - Speed Boost + UI 
+**CHALLENGES:**
+Greatest Challenge was figuring out how to implement the speed boost recharge rate. Making sure the UI showed when the speed boost was available was also a bit tricky, but much less daunting than creating the recharge time for the speed boost.
 
-MINOR - 
-
-
-CHALLENGES:
-
-
-FUTURE CHANGES:
+**FUTURE CHANGES:**
+I may tinker around with this project in my own time over the holiday break, but just for fun. || I would need to clean up the Boost Availability UI so it fades in using Alpha. I would also like to add in my own 3D models within the scene.
