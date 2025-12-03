@@ -8,7 +8,7 @@ DRIVE LINK *(COMPLETED: Major Mod Only)*:
 Donald Adams
 Bryan Hernandez
 
-**MODIFICATIONS:** *MAJOR* - Speed Boost + UI || *MINOR* - 
+**MODIFICATIONS:** *MAJOR* - Speed Boost + UI || *MINOR* - "Enemies Passed" Score
 || *(I worked on the MAJOR MOD: Speed Boost + UI Element)*
 
 **CHALLENGES:**
