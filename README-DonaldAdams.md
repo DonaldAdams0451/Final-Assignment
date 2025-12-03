@@ -5,8 +5,7 @@ DRIVE LINK *(COMPLETED: Major Mod Only)*:
 (ENTER LINK TO FINAL BUILD HERE)
 
 **TEAM MEMBERS:**
-Donald Adams
-Bryan Hernandez
+Donald Adams & Bryan Hernandez
 
 **MODIFICATIONS:** *MAJOR* - Speed Boost + UI || *MINOR* - "Enemies Passed" Score
 || *(I worked on the MAJOR MOD: Speed Boost + UI Element)*
